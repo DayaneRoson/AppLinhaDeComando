@@ -31,3 +31,24 @@
   * Abra o terminal dentro do seu vscode
   * Execute o seguinte comando:
     * ```go build```
+
+<br/>
+
+### Execução
+<br/>
+
+  * Se preferir, coloque o diretório onde está o executável no PATH de seu sistema operacional
+  * Caso contrário, também é possível executá-lo abrindo um terminal no dirétorio onde está seu executável
+
+<br/>
+
+  #### Comandos
+<br/>
+
+    *O comando executado pode variar de acordo com seu sistema operacional, exemplos abaixo foram executados no Windows*
+
+  * ```./linha-de-comando ip --host (endereço web desejado)``` <br/>
+    --- Retorna os IPs públicos pertencentes a este endereço<br/><br/>
+  * ```./linha-de-comando servidores --host (endereço web desejado)```<br/>
+    --- Retorna os nomes dos servidores onde está hospedado este endereço
+  
